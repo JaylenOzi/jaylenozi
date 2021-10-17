@@ -9,7 +9,7 @@
 </br><img src="https://komarev.com/ghpvc/?username=JaylenOzi&color=dc143c"/>
 </p>
 
-Discord Hesabım: `! Jαyłen Shéw ᛠ#1404`
+Discord Hesabım: `! Jaylen Shew#2670`
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/612688335944679600)](https://discord.com/users/612688335944679600) 
 
