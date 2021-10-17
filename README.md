@@ -8,7 +8,7 @@ Discord Hesabım: `! Jaylen Shew#2670`
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/612688335944679600)](https://discord.com/users/612688335944679600) 
 
-<h3>Social Media</h3>
+## Social Media:
 <a href="https://discord.com/users/612688335944679600"><img alt="Gmail" src="https://img.shields.io/badge/Discord-2f3236?style=flat&logo=discord&logoColor=blue" /></a> &nbsp;
 <a href="https://instagram.com/Jaylenprivxd"><img src="https://img.shields.io/badge/@Jaylenprivxd-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
