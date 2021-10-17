@@ -3,12 +3,9 @@
 ![profile count](https://komarev.com/ghpvc/?username=JaylenOzi&color=red)&nbsp;
 [![GitHub acarfx](https://img.shields.io/github/followers/JaylenOzi?label=follow&style=social)](https://github.com/JaylenOzi)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
+<a href="https://instagram.com/Jaylenprivxd"><img src="https://img.shields.io/badge/@Jaylenprivxd-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/612688335944679600)](https://discord.com/users/612688335944679600) 
-
-## Social Media:
-<a href="https://discord.com/users/612688335944679600"><img alt="Gmail" src="https://img.shields.io/badge/Discord-2f3236?style=flat&logo=discord&logoColor=blue" /></a> &nbsp;
-<a href="https://instagram.com/Jaylenprivxd"><img src="https://img.shields.io/badge/@Jaylenprivxd-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 ## Langauges I Know:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
