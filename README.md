@@ -1,4 +1,8 @@
 # Hi there , I'm Ozi 
+![version :17.10.2021](https://img.shields.io/badge/version-17.10.2021-informational) &nbsp;
+![profile count](https://komarev.com/ghpvc/?username=JaylenOzi&color=red)&nbsp;
+[![GitHub acarfx](https://img.shields.io/github/followers/JaylenOzi?label=follow&style=social)](https://github.com/JaylenOzi)&nbsp;
+![build: passing](https://img.shields.io/badge/build-passing-success)
 
 <h3>Social Media</h3>
 <a href="https://discord.com/users/612688335944679600"><img alt="Gmail" src="https://img.shields.io/badge/Discord-2f3236?style=flat&logo=discord&logoColor=blue" /></a> &nbsp;
