@@ -29,5 +29,4 @@ Discord Hesabım: `! Jaylen Shew#2670`
 <p align="left">
    <img src="https://github-readme-stats.vercel.app/api?username=JaylenOzi&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
 <img src="https://github-profile-trophy.vercel.app/?username=fearlessst&theme=radical" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaylenOzi&layout=compact&show_icons=true&theme=dark&hide_border=true"width="%100" height="150px" />
 </p>
