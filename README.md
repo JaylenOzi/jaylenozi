@@ -4,8 +4,6 @@
 [![GitHub acarfx](https://img.shields.io/github/followers/JaylenOzi?label=follow&style=social)](https://github.com/JaylenOzi)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
-Discord Hesabım: `! Jaylen Shew#2670`
-
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/612688335944679600)](https://discord.com/users/612688335944679600) 
 
 ## Social Media:
