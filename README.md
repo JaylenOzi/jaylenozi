@@ -20,4 +20,4 @@
 <img src="https://github-profile-trophy.vercel.app/?username=JaylenOzi&theme=radical" />
 </p>
 
-<img src="https://count.getloli.com/get/@:JaylenOzi?theme=rule3" alt=":JaylenOzi" />
+<img src="https://count.getloli.com/get/@:JaylenOzi?theme=rule1" alt=":JaylenOzi" />
