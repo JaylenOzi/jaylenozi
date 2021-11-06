@@ -19,5 +19,3 @@
    <img src="https://github-readme-stats.vercel.app/api?username=JaylenOzi&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
 <img src="https://github-profile-trophy.vercel.app/?username=JaylenOzi&theme=radical" />
 </p>
-
-<img src="https://count.getloli.com/get/@:JaylenOzi?theme=rule39" alt=":JaylenOzi" />
