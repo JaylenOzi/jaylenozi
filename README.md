@@ -8,7 +8,7 @@
 My Server
 https://discord.gg/shew
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/612688335944679600?theme=purple&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/612688335944679600)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/612688335944679600?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/612688335944679600)
 
 ## Langauges I Know:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
