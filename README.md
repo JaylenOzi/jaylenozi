@@ -2,8 +2,7 @@
 ![version :17.10.2021](https://img.shields.io/badge/version-17.10.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=JaylenOzi&color=8b72ff)&nbsp;
 [![GitHub JaylenOzi](https://img.shields.io/github/followers/JaylenOzi?label=follow&style=social)](https://github.com/JaylenOzi)&nbsp;
-![build: passing](https://img.shields.io/badge/build-passing-success)
-<a href="https://instagram.com/jaylenelchavo"><img src="https://img.shields.io/badge/@jaylenelchavo-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="https://instagram.com/jaylenelchavo"><img src="https://img.shields.io/badge/@jaylenelchavo-8b72ff?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 My Server:  https://discord.gg/1404
 
