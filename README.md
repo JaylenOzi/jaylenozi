@@ -5,7 +5,7 @@
 
 My Profiles: https://ppf.one/jaylen
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/612688335944679600?theme=light&bg=7ad3f5&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/612688335944679600)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/971307007728549918?theme=light&bg=7ad3f5&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/971307007728549918)
 
 ## Langauges I Know:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
