@@ -1,7 +1,6 @@
 # ∞ 06.02 SNOWOUTS FURKAN ∞
 ![profile count](https://komarev.com/ghpvc/?username=JaylenOzi&color=8b72ff)&nbsp;
 [![GitHub JaylenOzi](https://img.shields.io/github/followers/JaylenOzi?label=follow&style=social)](https://github.com/JaylenOzi)&nbsp;
-<a href="https://instagram.com/jaylen_ozi"><img src="https://img.shields.io/badge/@jaylen_ozi-8b72ff?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 AN İTİBARİ İLE DİSCORDU KALICI OLMAK ÜZERE SALMIŞ BULUNMAKTAYIM.
 HERKES HAKKINI HELAL ETSİN.
